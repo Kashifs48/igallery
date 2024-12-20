@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -180,6 +181,8 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (19).png>)
